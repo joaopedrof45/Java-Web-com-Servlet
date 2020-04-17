@@ -22,7 +22,7 @@ public class FormContatoServlet extends HttpServlet {
         String opcao = "";
         String opc = "";
 
-        Integer id      = null;
+        Integer id      = null; /*inicializando variaveis*/
         String nome     = "";
         String telefone = "";
         String telefone2 = "";
